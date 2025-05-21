@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+xarray
+scikit-learn
+missingno
+jupyter
+ipykernel
+seaborn
+joblib
+netCDF4
+lightgbm
+catboost
